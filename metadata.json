@@ -1,0 +1,6 @@
+{
+  "name": "Ayoub & Linda — Wedding Invitation",
+  "description": "Luxury interactive 3D envelope wedding invitation for Ayoub Istaiteh & Linda Salem (December 20, 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
